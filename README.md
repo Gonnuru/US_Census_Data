@@ -1,2 +1,2 @@
 # US_Census_Data
-Visulaization of US Census Data
+Visualization of US Census Data
